@@ -16,6 +16,10 @@ C++ code is modified to generate different frequency respectively
 
 
 Link of prototype:
+
 https://www.tinkercad.com/things/jYOyyh2sAyI-7-scale-piano?sharecode=RBAkGbxhCVB_FdcmGlIXNLfNYq33ZrvpmYkXK27B-Jo
+
+
 Video demo:
+
 https://vimeo.com/1060567666/dd6be4aa2b?share=copy
