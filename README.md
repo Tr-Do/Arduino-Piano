@@ -1,17 +1,26 @@
 Improvised version of SIMON Game with Arduino
 
 
+
 Components:
+
 - Arduino Uno R3
+
 - Momentary Push Buttons (user input)
+
 - Buzzer (sound output)
+
 - Resistors & Capacitors (circuit stability and pull-up resistors)
+
 
 
 Functionality:
 Arduino generates tones via the buzzer, each linked to a button.
+
 The sequence is similar to a piano
+
 C++ code is modified to generate different frequency respectively
+
 
 
 
